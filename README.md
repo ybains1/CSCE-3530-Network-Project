@@ -8,6 +8,7 @@ Project Overview
 This project builds and tests a small school computer lab network using GNS3, combined with live protocol captures from a real network stack to demonstrate core networking concepts. The lab network consists of a switch and four client PCs on a shared subnet. Additional protocol demonstrations — DHCP, DNS, HTTP/TCP, and ARP/ICMP — were captured directly from a live host network interface using Wireshark, since a Cisco IOS router image was not available for this environment.
 
 Network Topology (GNS3 Lab)
+<img width="626" height="389" alt="image" src="https://github.com/user-attachments/assets/ad5b460b-7414-4b18-af26-9d0d6fc10d68" />
 
 
 
